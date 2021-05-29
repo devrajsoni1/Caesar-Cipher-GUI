@@ -37,7 +37,7 @@ header {
 .flag {
     display: inline-block;
     margin: 10px;
-    position: relative;
+    position: absolute;
     width: 70px;
     height: 40px;
 }
